@@ -1,0 +1,41 @@
+2022-10-19 21:10:56 - Archivo a transferir: 100MB id 0
+2022-10-19 21:10:56 - Cliente 9 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 8 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 10 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 4 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 5 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 6 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 3 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 1 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 3 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 6 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 10 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 2 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 1 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 8 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 4 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 9 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 2 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 5 preparado para recibir 104857KB
+2022-10-19 21:10:56 - Cliente 7 conectando a localhost:3400
+2022-10-19 21:10:56 - Cliente 7 preparado para recibir 104857KB
+2022-10-19 21:10:58 - Cliente 10 tiempo total de transferencia 1399ms
+2022-10-19 21:10:58 - Cliente 8 tiempo total de transferencia 1399ms
+2022-10-19 21:10:58 - Cliente 5 tiempo total de transferencia 1396ms
+2022-10-19 21:10:58 - Cliente 5 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 8 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 9 tiempo total de transferencia 1398ms
+2022-10-19 21:10:58 - Cliente 1 tiempo total de transferencia 1400ms
+2022-10-19 21:10:58 - Cliente 1 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 4 tiempo total de transferencia 1398ms
+2022-10-19 21:10:58 - Cliente 4 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 10 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 2 tiempo total de transferencia 1398ms
+2022-10-19 21:10:58 - Cliente 9 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 2 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 7 tiempo total de transferencia 1412ms
+2022-10-19 21:10:58 - Cliente 7 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 3 tiempo total de transferencia 1421ms
+2022-10-19 21:10:58 - Cliente 3 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:58 - Cliente 6 tiempo total de transferencia 1442ms
+2022-10-19 21:10:58 - Cliente 6 transferencia completa - transferencia exitosa (sin perdida): true

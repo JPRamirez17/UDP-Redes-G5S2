@@ -1,0 +1,15 @@
+2022-10-19 21:10:11 - Servidor delegado 27 conectado
+2022-10-19 21:10:11 - Servidor delegado 31 conectado
+2022-10-19 21:10:11 - Servidor delegado 30 conectado
+2022-10-19 21:10:11 - Servidor delegado 29 conectado
+2022-10-19 21:10:11 - Servidor delegado 29 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente /127.0.0.1:54018
+2022-10-19 21:10:11 - Servidor delegado 28 conectado
+2022-10-19 21:10:11 - Servidor delegado 30 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente /127.0.0.1:57226
+2022-10-19 21:10:11 - Servidor delegado 31 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente /127.0.0.1:50267
+2022-10-19 21:10:11 - Servidor delegado 27 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente /127.0.0.1:59608
+2022-10-19 21:10:11 - Servidor delegado 28 preparado para enviar ArchivosEnviar/250MB.txt (262144KB) a Cliente /127.0.0.1:58601
+2022-10-19 21:10:12 - Servidor delegado 29 tiempo total de transferencia 947ms a Cliente /127.0.0.1:54018
+2022-10-19 21:10:12 - Servidor delegado 31 tiempo total de transferencia 949ms a Cliente /127.0.0.1:50267
+2022-10-19 21:10:12 - Servidor delegado 27 tiempo total de transferencia 949ms a Cliente /127.0.0.1:59608
+2022-10-19 21:10:12 - Servidor delegado 30 tiempo total de transferencia 947ms a Cliente /127.0.0.1:57226
+2022-10-19 21:10:12 - Servidor delegado 28 tiempo total de transferencia 955ms a Cliente /127.0.0.1:58601

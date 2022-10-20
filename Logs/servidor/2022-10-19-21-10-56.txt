@@ -1,0 +1,30 @@
+2022-10-19 21:10:56 - Servidor delegado 33 conectado
+2022-10-19 21:10:56 - Servidor delegado 34 conectado
+2022-10-19 21:10:56 - Servidor delegado 33 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:62241
+2022-10-19 21:10:56 - Servidor delegado 34 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:64035
+2022-10-19 21:10:56 - Servidor delegado 35 conectado
+2022-10-19 21:10:56 - Servidor delegado 37 conectado
+2022-10-19 21:10:56 - Servidor delegado 36 conectado
+2022-10-19 21:10:56 - Servidor delegado 35 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:58259
+2022-10-19 21:10:56 - Servidor delegado 38 conectado
+2022-10-19 21:10:56 - Servidor delegado 36 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:55535
+2022-10-19 21:10:56 - Servidor delegado 38 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:55260
+2022-10-19 21:10:56 - Servidor delegado 37 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:57695
+2022-10-19 21:10:56 - Servidor delegado 39 conectado
+2022-10-19 21:10:56 - Servidor delegado 39 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:49475
+2022-10-19 21:10:56 - Servidor delegado 40 conectado
+2022-10-19 21:10:56 - Servidor delegado 40 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:60388
+2022-10-19 21:10:56 - Servidor delegado 41 conectado
+2022-10-19 21:10:56 - Servidor delegado 41 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:57110
+2022-10-19 21:10:56 - Servidor delegado 42 conectado
+2022-10-19 21:10:56 - Servidor delegado 42 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:58458
+2022-10-19 21:10:58 - Servidor delegado 34 tiempo total de transferencia 1397ms a Cliente /127.0.0.1:64035
+2022-10-19 21:10:58 - Servidor delegado 41 tiempo total de transferencia 1393ms a Cliente /127.0.0.1:57110
+2022-10-19 21:10:58 - Servidor delegado 39 tiempo total de transferencia 1395ms a Cliente /127.0.0.1:49475
+2022-10-19 21:10:58 - Servidor delegado 38 tiempo total de transferencia 1396ms a Cliente /127.0.0.1:55260
+2022-10-19 21:10:58 - Servidor delegado 42 tiempo total de transferencia 1390ms a Cliente /127.0.0.1:58458
+2022-10-19 21:10:58 - Servidor delegado 37 tiempo total de transferencia 1396ms a Cliente /127.0.0.1:57695
+2022-10-19 21:10:58 - Servidor delegado 36 tiempo total de transferencia 1396ms a Cliente /127.0.0.1:55535
+2022-10-19 21:10:58 - Servidor delegado 40 tiempo total de transferencia 1395ms a Cliente /127.0.0.1:60388
+2022-10-19 21:10:58 - Servidor delegado 35 tiempo total de transferencia 1396ms a Cliente /127.0.0.1:58259
+2022-10-19 21:10:58 - Servidor delegado 33 tiempo total de transferencia 1397ms a Cliente /127.0.0.1:62241

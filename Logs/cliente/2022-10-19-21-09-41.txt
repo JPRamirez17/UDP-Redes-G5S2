@@ -1,0 +1,5 @@
+2022-10-19 21:09:41 - Archivo a transferir: 100MB id 0
+2022-10-19 21:09:41 - Cliente 1 conectando a localhost:3400
+2022-10-19 21:09:41 - Cliente 1 preparado para recibir 104857KB
+2022-10-19 21:09:41 - Cliente 1 tiempo total de transferencia 392ms
+2022-10-19 21:09:41 - Cliente 1 transferencia completa - transferencia exitosa (sin perdida): true

@@ -1,0 +1,3 @@
+2022-10-19 21:09:41 - Servidor delegado 21 conectado
+2022-10-19 21:09:41 - Servidor delegado 21 preparado para enviar ArchivosEnviar/100MB.txt (104857KB) a Cliente /127.0.0.1:62743
+2022-10-19 21:09:41 - Servidor delegado 21 tiempo total de transferencia 391ms a Cliente /127.0.0.1:62743

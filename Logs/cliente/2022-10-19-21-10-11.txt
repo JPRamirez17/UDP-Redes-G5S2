@@ -1,0 +1,21 @@
+2022-10-19 21:10:11 - Archivo a transferir: 250MB id 1
+2022-10-19 21:10:11 - Cliente 1 conectando a localhost:3400
+2022-10-19 21:10:11 - Cliente 5 conectando a localhost:3400
+2022-10-19 21:10:11 - Cliente 3 conectando a localhost:3400
+2022-10-19 21:10:11 - Cliente 2 conectando a localhost:3400
+2022-10-19 21:10:11 - Cliente 4 conectando a localhost:3400
+2022-10-19 21:10:11 - Cliente 4 preparado para recibir 262144KB
+2022-10-19 21:10:11 - Cliente 1 preparado para recibir 262144KB
+2022-10-19 21:10:11 - Cliente 5 preparado para recibir 262144KB
+2022-10-19 21:10:11 - Cliente 2 preparado para recibir 262144KB
+2022-10-19 21:10:11 - Cliente 3 preparado para recibir 262144KB
+2022-10-19 21:10:12 - Cliente 3 tiempo total de transferencia 946ms
+2022-10-19 21:10:12 - Cliente 1 tiempo total de transferencia 949ms
+2022-10-19 21:10:12 - Cliente 1 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:12 - Cliente 3 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:12 - Cliente 4 tiempo total de transferencia 955ms
+2022-10-19 21:10:12 - Cliente 4 transferencia completa - transferencia exitosa (sin perdida): true
+2022-10-19 21:10:13 - Cliente 2 tiempo total de transferencia 1950ms
+2022-10-19 21:10:13 - Cliente 2 transferencia completa - transferencia exitosa (sin perdida): false
+2022-10-19 21:10:13 - Cliente 5 tiempo total de transferencia 1953ms
+2022-10-19 21:10:13 - Cliente 5 transferencia completa - transferencia exitosa (sin perdida): false
