@@ -1,4 +1,4 @@
-# TCP-Redes-G5S2
+# UDP-Redes-G5S2
 
 Gabriela García - 201912531
 
