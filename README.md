@@ -36,5 +36,5 @@ Juan Pablo Ramirez - 201921728
 - **Resultados en ArchivosRecibidos/ y Logs/cliente/**
 
 ## Si falla al correr el Servidor o Cliente por la versión de Java
-1. Ejecutar comandos ```javac -b ./bin -cp src/ src/servidor/*.java```, ```javac -b ./bin -cp src/ src/cliente/*.java``` y ```javac -b ./bin -cp src/ src/logger/*.java```
+1. Ejecutar comandos ```javac -d ./bin -cp src/ src/servidor/*.java```, ```javac -d ./bin -cp src/ src/cliente/*.java``` y ```javac -d ./bin -cp src/ src/logger/*.java```
 2. Ejecutar comando ```java -cp bin/ servidor.Servidor``` o ```java -cp bin/ cliente.Cliente```
